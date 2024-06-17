@@ -1,1 +1,1 @@
-FROM  xhofe/alist:c3.35.0
+FROM  xhofe/alist:latest
