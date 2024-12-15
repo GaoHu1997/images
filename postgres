@@ -1,1 +1,1 @@
-FROM postgres:16.4
+FROM swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/postgres:16.4
